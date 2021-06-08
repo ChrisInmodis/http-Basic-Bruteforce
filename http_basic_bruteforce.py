@@ -19,7 +19,6 @@ bruteforce_list = open("bruteforce.txt", "a")
 
 counter = 0
 
-
 for name in usernames:
     name = name.strip() 
 
@@ -36,7 +35,6 @@ for name in usernames:
             pass
         if(counter % 1000000 == 0):
             print("1 million done")
-
 
 
 bruteforce_list.close()
