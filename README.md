@@ -13,3 +13,10 @@ open cmd and cd to the directory where you downloaded the script
 If username or password file are in the same directory as the script, you can just use the name of the file and don´t have to type the path (e.g. user.txt)
 
 --help/-h: display the help message
+<br/>
+<br/>
+**User and password wordlists**
+There´s a variety of sources for username and password wordlists. A few are listed below, but feel free to use others or create your own:<br/>
+- https://github.com/jeanphorn/wordlist/blob/master/usernames.txt
+- https://github.com/insidetrust/statistically-likely-usernames/blob/master/john.smith.txt
+- https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10-million-password-list-top-10000.txt
