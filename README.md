@@ -1,5 +1,5 @@
 # http-Basic-Bruteforce
-##Python program to create bruteforce lists for http basic authentification
+## Python program to create bruteforce lists for http basic authentification
 
-##Usage
+## Usage
 cd [directory of the script]
