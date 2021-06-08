@@ -15,7 +15,7 @@ If username or password file are in the same directory as the script, you can ju
 --help/-h: display the help message
 <br/>
 <br/>
-**User and password wordlists**
+**User and password wordlists**<br/>
 There´s a variety of sources for username and password wordlists. A few are listed below, but feel free to use others or create your own:<br/>
 - https://github.com/jeanphorn/wordlist/blob/master/usernames.txt
 - https://github.com/insidetrust/statistically-likely-usernames/blob/master/john.smith.txt
