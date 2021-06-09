@@ -20,7 +20,7 @@ There´s a variety of sources for username and password wordlists. A few are lis
 - https://github.com/jeanphorn/wordlist/blob/master/usernames.txt
 - https://github.com/insidetrust/statistically-likely-usernames/blob/master/john.smith.txt
 - https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10-million-password-list-top-10000.txt<br/>
-<br/>
+
 <br/>**Output**<br/>
 For http basic authentification a string in the form of username:password is encoded in base64. <br/>
 The script takes every name in the supplied username file and combines it with every password in the supplied password file.<br/>
