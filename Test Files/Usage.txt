@@ -1,1 +1,1 @@
-In this directory you can find to simple test files (usernames and passwords) along with the generated output to check if the script is working correct. 
+In this directory you can find two simple test files (user.txt and password.txt) along with the generated output (bruteforce.txt) to check if the script is working correct. 
