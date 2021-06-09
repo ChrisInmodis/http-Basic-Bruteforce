@@ -29,4 +29,5 @@ Be aware that with large input files, the file size of bruteforce.txt will be hu
 
 <br/>**Test**<br/>
 In the Test Files Directory you can find two simple input files: a user.txt file (contains 4 usernames) and a password.txt file (contains 6 passwords).<br/>
-With this input, a bruteforce.txt file with 24 http basic authentification strings is created.
+With this input, a bruteforce.txt file with 24 http basic authentification strings is created.<br/>
+You can use https://www.base64decode.org/ to check if the strings are generated correctly.<br/>
