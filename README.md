@@ -26,3 +26,7 @@ For http basic authentification a string in the form of username:password is enc
 The script takes every name in the supplied username file and combines it with every password in the supplied password file.<br/>
 The output is written to a file called bruteforce.txt where every line contains one http basic authentification string. <br/>
 Be aware that with large input files, the file size of bruteforce.txt will be huge so make sure you have enough disk space. <br/>
+
+<br/>**Test**<br/>
+In the Test Files Directory you can find two simple input files: a user.txt file (contains 4 usernames) and a password.txt file (contains 6 passwords).<br/>
+With this input, a bruteforce.txt file with 24 http basic authentification strings is created.
